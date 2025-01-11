@@ -2,7 +2,7 @@
 
 𝙵𝚞𝚗𝚍𝚊𝚖𝚎𝚗𝚝𝚊𝚕⠀ &⠀ 𝙲𝚘𝚖𝚙𝚞𝚝𝚊𝚝𝚒𝚘𝚗𝚊𝚕 ⠀𝙻𝚒𝚗𝚐𝚞𝚒𝚜𝚝𝚒𝚌𝚜 ⠀𝚜𝚝𝚞𝚍𝚎𝚗𝚝 ⠀|⠀ 𝚁𝚂𝚄𝙷
 
-<!--[![yodiiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yodiiin&show_icons=true&theme=omni)](https://github.com/yodiiin/github-readme-stats)
+[![yodiiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yodiiin&show_icons=true&theme=omni)](https://github.com/yodiiin/github-readme-stats)
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=yodiiin&theme=dracula&margin-w=10)](https://github.com/yodiiin/github-profile-trophy)-->
 
