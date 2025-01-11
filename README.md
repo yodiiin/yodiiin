@@ -1,6 +1,6 @@
 ## hello, world 🌏
 
-𝐜𝐨𝐦𝐩𝐮𝐭𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐥𝐢𝐧𝐠𝐮𝐢𝐬𝐭𝐢𝐜𝐬 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 𝐚𝐭 𝐑𝐒𝐔𝐇 👩‍💻📚
+ꜰᴜɴᴅᴀᴍᴇɴᴛᴀʟ & ᴄᴏᴍᴘᴜᴛᴀᴛɪᴏɴᴀʟ ʟɪɴɢᴜɪꜱᴛɪᴄꜱ 👩‍💻📚 | ʀꜱᴜʜ, ᴍᴏꜱᴄᴏᴡ
 
 [![yodiiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yodiiin&show_icons=true&theme=omni)](https://github.com/yodiiin/github-readme-stats)
 
